@@ -1,0 +1,5 @@
+excelFile: "../conf/bcbchain.xlsx"
+engine:
+  logPath: "/tmp/log/engine.log"
+server:
+  logPath: "/tmp/log/server.log"
