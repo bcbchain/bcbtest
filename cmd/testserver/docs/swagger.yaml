@@ -1,0 +1,8 @@
+info:
+  contact: {}
+  description: BCBTest API解释说明文档
+  license: {}
+  title: BCBTest API Docs
+  version: v1
+paths: {}
+swagger: "2.0"

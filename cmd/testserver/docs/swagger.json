@@ -1,0 +1,11 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "BCBTest API解释说明文档",
+        "title": "BCBTest API Docs",
+        "contact": {},
+        "license": {},
+        "version": "v1"
+    },
+    "paths": {}
+}
